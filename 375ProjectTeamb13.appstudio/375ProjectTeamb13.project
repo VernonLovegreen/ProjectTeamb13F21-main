@@ -42,6 +42,22 @@
             "userHomePage",
             "userHomePage.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "odds",
+            "odds.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "teamInfo",
+            "teamInfo.json"
+          ]
         }
       ],
       "configxml": null,
@@ -63,7 +79,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "loginPage",
+      "firstform": "userHomePage",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

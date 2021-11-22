@@ -3,7 +3,7 @@ btnNews.onclick=function(){
 }
 
 btnBetting.onclick=function(){
-  ChangeForm()
+  ChangeForm(teamInfo)
 }
 
 btnTickets.onclick=function(){
